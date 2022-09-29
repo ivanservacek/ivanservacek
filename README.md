@@ -5,7 +5,7 @@
 
 I work as DevOps engineer & consultant at [Aardwark](https://www.aardwark.com/) where we consult and built on-prem and cloud based infrastructure with Terraform, Ansible. I am responsible for operations and improving our cloud infrastructure.
 
-Prevously I worked for First Data and AT&T.
+Previously I worked for First Data and AT&T.
 
 Sometimes I share my knowledge - check out my [website](https://www.servacek.com/) and [decoding.io](https://decoding.io)
 
