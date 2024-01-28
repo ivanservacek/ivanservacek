@@ -7,9 +7,9 @@ I work as DevOps engineer & consultant at [Aardwark](https://www.aardwark.com/) 
 
 Previously I worked for First Data and AT&T.
 
-Sometimes I share my knowledge - check out my [website](https://www.servacek.com/) and [decoding.io](https://decoding.io)
+Sometimes I share my knowledge - check out my [website](https://www.servacek.com/) and [decoding-labs.com](https://decoding-labs.com)
 
-In spare time, I love books and tea. 
+In spare time, I love books, guns, watches, cigars and tea. 
 
 <h3 align="center">Things I work with on day-to-day basis</h3>
 <p>
@@ -37,7 +37,7 @@ In spare time, I love books and tea.
     <a href="https://www.linkedin.com/in/ivanservacek">LinkedIn</a>&nbsp;
     <a href="https://instagram.com/ivanservacek">Instagram</a><br />
     <a href="https://www.servacek.com">www.servacek.com</a><br />
-     <a href="https://www.decoding.io">www.decoding.io</a>
+     <a href="https://www.decoding-labs.com">www.decoding-labs.com</a>
   </p>
 </p>
 
